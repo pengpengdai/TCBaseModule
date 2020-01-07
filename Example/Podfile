@@ -4,6 +4,7 @@ platform :ios, '8.0'
 
 target 'TCBaseModule_Example' do
   pod 'TCBaseModule', :path => '../'
+  pod 'ReactiveObjC'
 
   target 'TCBaseModule_Tests' do
     inherit! :search_paths

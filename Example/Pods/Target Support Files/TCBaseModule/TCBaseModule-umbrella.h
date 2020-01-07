@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "DPBaseViewController.h"
 #import "TCBaseViewController.h"
 
 FOUNDATION_EXPORT double TCBaseModuleVersionNumber;

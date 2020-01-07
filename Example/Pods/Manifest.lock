@@ -4,15 +4,19 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - TCBaseModule (0.1.0)
+  - ReactiveObjC (3.1.1)
+  - TCBaseModule (0.1.0):
+    - ReactiveObjC
 
 DEPENDENCIES:
   - FBSnapshotTestCase
+  - ReactiveObjC
   - TCBaseModule (from `../`)
 
 SPEC REPOS:
   trunk:
     - FBSnapshotTestCase
+    - ReactiveObjC
 
 EXTERNAL SOURCES:
   TCBaseModule:
@@ -20,8 +24,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  TCBaseModule: 41f1cf9eae27d07559cb4bee665609936284e710
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  TCBaseModule: 13e169b01cafd0af122c5a100202d9643b485052
 
-PODFILE CHECKSUM: 8c81cde8b2b37b6210553119e23db90fbd5f6107
+PODFILE CHECKSUM: 2d34fc93f4780ebaab42186be585b06b10a62c8c
 
-COCOAPODS: 1.8.0
+COCOAPODS: 1.8.4
