@@ -5,7 +5,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - ReactiveObjC (3.1.1)
-  - TCBaseModule (0.1.0):
+  - TCBaseModule (0.1.1):
     - ReactiveObjC
 
 DEPENDENCIES:
@@ -25,7 +25,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
-  TCBaseModule: 13e169b01cafd0af122c5a100202d9643b485052
+  TCBaseModule: 0df4baee09b2cfc3ebd95611acc20b42ea61e007
 
 PODFILE CHECKSUM: 2d34fc93f4780ebaab42186be585b06b10a62c8c
 

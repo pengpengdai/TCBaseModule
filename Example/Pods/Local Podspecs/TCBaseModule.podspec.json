@@ -1,9 +1,9 @@
 {
   "name": "TCBaseModule",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of TCBaseModule.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/代朋朋/TCBaseModule",
+  "homepage": "https://github.com/quanwangshushang/TCBaseModule",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "代朋朋": "steven@tophold.com"
   },
   "source": {
-    "git": "https://github.com/代朋朋/TCBaseModule.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/quanwangshushang/TCBaseModule.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
