@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TCBaseModule'
-  s.version          = '0.1.1'
-  s.summary          = 'A short description of TCBaseModule.'
+  s.version          = '0.3.3'
+  s.summary          = '测试pod发布库'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

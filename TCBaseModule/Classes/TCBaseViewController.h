@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TCBaseViewController : UIViewController
 
+@property(nonatomic,strong) NSString *verson;
+
 @end
 
 NS_ASSUME_NONNULL_END
